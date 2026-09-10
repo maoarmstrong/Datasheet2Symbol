@@ -1,0 +1,175 @@
+{
+  "name": "DEMO-CONN",
+  "target": {
+    "model": "DEMO-CONN",
+    "package": "Receptacle-X",
+    "pin_count": 4,
+    "fact": "explicit",
+    "observation": "Synthetic benchmark only",
+    "evidence": [
+      {
+        "page": 1,
+        "printed_page": "10",
+        "kind": "description",
+        "quote": "Synthetic model and package"
+      }
+    ]
+  },
+  "pins": [
+    {
+      "number": "A1",
+      "original_name": "GND",
+      "symbol_name": "GND",
+      "electrical_type": "Passive",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "Mating face view; do not mirror",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "A1: GND (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "GND",
+        "selected_column": "Receptacle-X",
+        "columns": {
+          "Receptacle-X": [
+            "A1"
+          ]
+        }
+      }
+    },
+    {
+      "number": "A2",
+      "original_name": "TX+",
+      "symbol_name": "TX+",
+      "electrical_type": "Passive",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "Mating face view; do not mirror",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "A2: TX+ (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "TX+",
+        "selected_column": "Receptacle-X",
+        "columns": {
+          "Receptacle-X": [
+            "A2"
+          ]
+        }
+      }
+    },
+    {
+      "number": "B12",
+      "original_name": "TX-",
+      "symbol_name": "TX-",
+      "electrical_type": "Passive",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "Mating face view; do not mirror",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "B12: TX- (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "TX-",
+        "selected_column": "Receptacle-X",
+        "columns": {
+          "Receptacle-X": [
+            "B12"
+          ]
+        }
+      }
+    },
+    {
+      "number": "SH1",
+      "original_name": "SHIELD",
+      "symbol_name": "SHIELD",
+      "electrical_type": "Passive",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "shield",
+      "fact": "explicit",
+      "observation": "Mating face view; do not mirror",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "SH1: SHIELD (shield) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "SHIELD",
+        "selected_column": "Receptacle-X",
+        "columns": {
+          "Receptacle-X": [
+            "SH1"
+          ]
+        }
+      }
+    },
+    {
+      "number": "MP1",
+      "original_name": "LOCATOR",
+      "symbol_name": "LOCATOR",
+      "electrical_type": "Unknown",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "mechanical",
+      "fact": "explicit",
+      "observation": "Mating face view; do not mirror",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "MP1: LOCATOR (mechanical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "LOCATOR",
+        "selected_column": "Receptacle-X",
+        "columns": {
+          "Receptacle-X": [
+            "MP1"
+          ]
+        }
+      }
+    }
+  ]
+}

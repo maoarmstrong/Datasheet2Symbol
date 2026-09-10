@@ -1,0 +1,398 @@
+{
+  "name": "DEMO-CROSS",
+  "target": {
+    "model": "DEMO-CROSS",
+    "package": "QFN-12",
+    "pin_count": 12,
+    "fact": "explicit",
+    "observation": "Synthetic benchmark only",
+    "evidence": [
+      {
+        "page": 1,
+        "printed_page": "10",
+        "kind": "description",
+        "quote": "Synthetic model and package"
+      }
+    ]
+  },
+  "pins": [
+    {
+      "number": "1",
+      "original_name": "VDD",
+      "symbol_name": "VDD",
+      "electrical_type": "Power",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "1: VDD (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "VDD",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "1"
+          ]
+        }
+      }
+    },
+    {
+      "number": "2",
+      "original_name": "VDD",
+      "symbol_name": "VDD",
+      "electrical_type": "Power",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "2: VDD (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "VDD",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "2"
+          ]
+        }
+      }
+    },
+    {
+      "number": "3",
+      "original_name": "GND",
+      "symbol_name": "GND",
+      "electrical_type": "Power",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "3: GND (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "GND",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "3"
+          ]
+        }
+      }
+    },
+    {
+      "number": "4",
+      "original_name": "nCS",
+      "symbol_name": "nCS",
+      "electrical_type": "Input",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "4: nCS (electrical) — synthetic fixture"
+        },
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "footnote",
+          "quote": "nCS is active low. Synthetic footnote."
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "nCS",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "4"
+          ]
+        }
+      }
+    },
+    {
+      "number": "5",
+      "original_name": "nRESET",
+      "symbol_name": "nRESET",
+      "electrical_type": "Input",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "5: nRESET (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "nRESET",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "5"
+          ]
+        }
+      }
+    },
+    {
+      "number": "6",
+      "original_name": "CLK",
+      "symbol_name": "CLK",
+      "electrical_type": "Input",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "6: CLK (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "CLK",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "6"
+          ]
+        }
+      }
+    },
+    {
+      "number": "7",
+      "original_name": "AIN+",
+      "symbol_name": "AIN+",
+      "electrical_type": "Input",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "7: AIN+ (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "AIN+",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "7"
+          ]
+        }
+      }
+    },
+    {
+      "number": "8",
+      "original_name": "AIN-",
+      "symbol_name": "AIN-",
+      "electrical_type": "Input",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "8: AIN- (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "AIN-",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "8"
+          ]
+        }
+      }
+    },
+    {
+      "number": "9",
+      "original_name": "OUT+",
+      "symbol_name": "OUT+",
+      "electrical_type": "Output",
+      "group": "",
+      "part": "A",
+      "position": "Right",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "9: OUT+ (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "OUT+",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "9"
+          ]
+        }
+      }
+    },
+    {
+      "number": "10",
+      "original_name": "OUT-",
+      "symbol_name": "OUT-",
+      "electrical_type": "Output",
+      "group": "",
+      "part": "A",
+      "position": "Right",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "10: OUT- (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "OUT-",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "10"
+          ]
+        }
+      }
+    },
+    {
+      "number": "11",
+      "original_name": "PA0",
+      "symbol_name": "PA0",
+      "electrical_type": "Bidirectional",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "11: PA0 (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "PA0",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "11"
+          ]
+        }
+      }
+    },
+    {
+      "number": "12",
+      "original_name": "GND",
+      "symbol_name": "GND",
+      "electrical_type": "Power",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "12: GND (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "GND",
+        "selected_column": "QFN-12",
+        "columns": {
+          "QFN-12": [
+            "12"
+          ]
+        }
+      }
+    }
+  ]
+}

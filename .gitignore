@@ -1,0 +1,17 @@
+.venv/
+node_modules/
+frontend/dist/
+data/
+__pycache__/
+.pytest_cache/
+.env*
+*.log
+dist/
+build/
+*.spec
+outputs/
+output/
+samples/
+.workbuddy-ai/
+.codex_fpga_build/
+datasheet2symbol-launcher.log

@@ -1,0 +1,299 @@
+{
+  "name": "DEMO-PWR",
+  "target": {
+    "model": "DEMO-PWR",
+    "package": "QFN-8+EP",
+    "pin_count": 9,
+    "fact": "explicit",
+    "observation": "Synthetic benchmark only",
+    "evidence": [
+      {
+        "page": 1,
+        "printed_page": "10",
+        "kind": "description",
+        "quote": "Synthetic model and package"
+      }
+    ]
+  },
+  "pins": [
+    {
+      "number": "1",
+      "original_name": "VIN",
+      "symbol_name": "VIN",
+      "electrical_type": "Power",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "1: VIN (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "VIN",
+        "selected_column": "QFN-8+EP",
+        "columns": {
+          "QFN-8+EP": [
+            "1"
+          ]
+        }
+      }
+    },
+    {
+      "number": "2",
+      "original_name": "VIN",
+      "symbol_name": "VIN",
+      "electrical_type": "Power",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "2: VIN (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "VIN",
+        "selected_column": "QFN-8+EP",
+        "columns": {
+          "QFN-8+EP": [
+            "2"
+          ]
+        }
+      }
+    },
+    {
+      "number": "3",
+      "original_name": "EN",
+      "symbol_name": "EN",
+      "electrical_type": "Input",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "3: EN (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "EN",
+        "selected_column": "QFN-8+EP",
+        "columns": {
+          "QFN-8+EP": [
+            "3"
+          ]
+        }
+      }
+    },
+    {
+      "number": "4",
+      "original_name": "NC",
+      "symbol_name": "NC",
+      "electrical_type": "Passive",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "NC",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "4: NC (NC) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "NC",
+        "selected_column": "QFN-8+EP",
+        "columns": {
+          "QFN-8+EP": [
+            "4"
+          ]
+        }
+      }
+    },
+    {
+      "number": "5",
+      "original_name": "OUT",
+      "symbol_name": "OUT",
+      "electrical_type": "Power",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 1,
+          "printed_page": "10",
+          "kind": "table",
+          "quote": "5: OUT (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 1,
+        "name": "OUT",
+        "selected_column": "QFN-8+EP",
+        "columns": {
+          "QFN-8+EP": [
+            "5"
+          ]
+        }
+      }
+    },
+    {
+      "number": "6",
+      "original_name": "GND",
+      "symbol_name": "GND",
+      "electrical_type": "Power",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "6: GND (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "GND",
+        "selected_column": "QFN-8+EP",
+        "columns": {
+          "QFN-8+EP": [
+            "6"
+          ]
+        }
+      }
+    },
+    {
+      "number": "7",
+      "original_name": "GND",
+      "symbol_name": "GND",
+      "electrical_type": "Power",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "7: GND (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "GND",
+        "selected_column": "QFN-8+EP",
+        "columns": {
+          "QFN-8+EP": [
+            "7"
+          ]
+        }
+      }
+    },
+    {
+      "number": "8",
+      "original_name": "FB",
+      "symbol_name": "FB",
+      "electrical_type": "Input",
+      "group": "",
+      "part": "A",
+      "position": "Left",
+      "kind": "electrical",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "8: FB (electrical) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "FB",
+        "selected_column": "QFN-8+EP",
+        "columns": {
+          "QFN-8+EP": [
+            "8"
+          ]
+        }
+      }
+    },
+    {
+      "number": "9",
+      "original_name": "EP",
+      "symbol_name": "EP",
+      "electrical_type": "Power",
+      "group": "",
+      "part": "B",
+      "position": "Left",
+      "kind": "exposed_pad",
+      "fact": "explicit",
+      "observation": "",
+      "issues": [],
+      "evidence": [
+        {
+          "page": 2,
+          "printed_page": "11",
+          "kind": "table",
+          "quote": "9: EP (exposed_pad) — synthetic fixture"
+        }
+      ],
+      "table_row": {
+        "page": 2,
+        "name": "EP",
+        "selected_column": "QFN-8+EP",
+        "columns": {
+          "QFN-8+EP": [
+            "9"
+          ]
+        }
+      }
+    }
+  ]
+}
